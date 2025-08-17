@@ -48,9 +48,3 @@ STAHUJI DATA Z VYBRANEHO URL: https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&
 UKLADAM DO SOUBORU: vysledky_prostejov.csv
 UKONCUJI election-scraper
 ```
-
-## Štruktúra repozitára
-
-- `main.py` – hlavný skript
-- `requirements.txt` – zoznam knižníc
-- `README.md` – dokumentácia
